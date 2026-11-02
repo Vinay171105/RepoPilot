@@ -1,0 +1,8 @@
+{
+  "repo": "your-indexed-repo-name",
+  "note": "Replace these with ~20 real questions about a repo you know well. gold_files = where a maintainer would look. keywords = words a correct answer should contain.",
+  "questions": [
+    {"q": "Where is user authentication handled?", "gold_files": ["path/to/auth.py"], "keywords": ["token", "login"]},
+    {"q": "How are configuration values loaded?", "gold_files": ["path/to/config.py"], "keywords": ["env"]}
+  ]
+}
